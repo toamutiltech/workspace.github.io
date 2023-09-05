@@ -75,8 +75,8 @@
 }
 #wrapper{
     padding: 2%;
-    padding-left: 8%;
-    width: 100%;
+    padding-left: 12%;
+    width: 80%;
     font-weight: bolder;
     font-size: 150%;
     text-align: center;
@@ -100,7 +100,21 @@
     background-color: rgb(35, 64, 215);
     padding: 2%;
     padding-left: 8%;
-    padding-right: 8%;
     font-size: 150%;
     color: white;
+}
+#abt{
+color: white;
+}
+#team{
+   padding: 2%;
+    padding-left: 8%;
+    font-size: 150%; 
+}
+#footer{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 2%;
+    padding-left: 8%;
 }
